@@ -22,6 +22,9 @@ To see detailed information about the binding options of RadChart, check this ar
 
 To configure the axes in RadChart, you can access and modify the following properties of the control:
 
+
+
+
 * 
 
 __axisDefaults__: This property lets you set common properties for all axes in the chart, instead of setting them

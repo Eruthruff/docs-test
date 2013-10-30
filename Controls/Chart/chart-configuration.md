@@ -9,13 +9,13 @@ publish:True
 
 
 This help article will introduce you to the properties exposed by the RadChart control and describe their usage. In the related help articles you will find 
-				more information about setting the different objects in the chart control.
+more information about setting the different objects in the chart control.
 			
 
 # Binding RadChart to Data
 
 To bind RadChart to data, you can use its __dataSource__ property for data that is accessible to all chart components. 
-					To see detailed information about the binding options of RadChart, check this article: [Data Binding](253f6f05-3f32-4ee9-82fb-2e360d156f5f).
+To see detailed information about the binding options of RadChart, check this article: [Data Binding](253f6f05-3f32-4ee9-82fb-2e360d156f5f).
 				
 
 # Section1Axis Settings
@@ -25,14 +25,14 @@ To configure the axes in RadChart, you can access and modify the following prope
 * 
 
 __axisDefaults__: This property lets you set common properties for all axes in the chart, instead of setting them
-							for each axis individually. For a list of these properties, see the 
-							T:Telerik.UI.Chart.Axis API reference article.
+for each axis individually. For a list of these properties, see the 
+T:Telerik.UI.Chart.Axis API reference article.
 						
 
 * 
 
 The following list represents all axis types and their settings in RadChart. For detailed information and samples on chart axes, go to
-							[Chart Axes](5469340a-fd03-4793-9b78-aafcda0bf923).
+[Chart Axes](5469340a-fd03-4793-9b78-aafcda0bf923).
 						
 
 * 

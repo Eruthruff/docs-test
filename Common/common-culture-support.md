@@ -16,9 +16,6 @@ From Q2 2013 on, __RadControls__ for Windows 8 HTML offer culture support capabi
 
 # Global Culture
 
-
-
-
 To operate with cultures using __RadControls__ you must use the __Telerik.Culture__ namespace. Use the 
           __setCurrent()__ method to set a global culture for all __RadControls__:
         
@@ -45,7 +42,7 @@ The __setCurrent()__ method takes two parameters:
               as 24 hour format and if it is set to *false* the time will be in 12 hour format. The default value is the given 
               culture's native clock format.
             >
-            To set a global culture for all RadControls in your application, you need to use the <legacyBold xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">setCurrent()</legacyBold> method before 
+            To set a global culture for all RadControls for Windows 8 HTML in your application, you need to use the <legacyBold xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">setCurrent()</legacyBold> method before 
             the controls are initialized, i.e., before the <legacyBold xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5">processAll()</legacyBold> method.
           >
             Also, if you want to change the global culture at a later moment in your application, be advised that only newly initialized controls will be 

@@ -46,7 +46,8 @@ Once the data is read and the aggregates are calculated, the __
 	                        { orderId: 1, price: 10.23 },
 	                        { orderId: 2, price: 14.30 },
 	                        { orderId: 3, price: 123.41 },
-	                        { orderId: 4, price: 45.10 }
+	                        { orderId: 4, price: 45.10 },
+	                        { orderId: 5, price: 45.10 }
 	                    ],
 				        aggregate: [
 	                        { field: "orderId", aggregate: "count" },

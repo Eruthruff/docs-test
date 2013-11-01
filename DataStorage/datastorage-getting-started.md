@@ -6,7 +6,7 @@ slug:
 tags:getting,started
 publish:True
 ---
-
+Make a change here.
 
 The Telerik Data Storage ships in a separate installation from the RadControls for Windows 8 HTML suite. This article will explain how to add the Data
 				Storage reference to your application and then, how to use it to build data-oriented applications.
@@ -57,7 +57,7 @@ The Telerik Data Storage ships in a separate installation from the RadControls f
 [Demo Application](#demo)
 
 # installationInstalling the Data Storage
-
+Make another change here.
 To be able to install the Telerik Data Storage, you need to separately download its installation from your account. To do this, follow the steps
 					below:
 				

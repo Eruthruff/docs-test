@@ -12,7 +12,7 @@ Once you purchase RadControls for Windows 8, you will want to remove the trial m
 				control from the suite. This help article elaborates on the steps you can follow to replace the trial version of the controls with a developer one.
 			
 
-# Section1How to Hide the Trial Message After Obtaining a Developer License
+# How to Hide the Trial Message After Obtaining a Developer License
 
 To hide the trial message, you must upgrade your RadControls to a developer version of the installation. To do so, follow the steps below:
 
@@ -41,4 +41,4 @@ If your choice of installation provides an SDK, you should update your project r
 
 If all has gone well, you should not see the trial message anymore.
 
-# Related Topics
+

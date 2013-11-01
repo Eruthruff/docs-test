@@ -12,7 +12,7 @@ __RadDropDownList__ features keyboard support for quick item selection with the 
         key combinations needed to navigate the control and select a value.
       
 
-# Section1
+
 
 * 
 

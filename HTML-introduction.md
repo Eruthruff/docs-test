@@ -6,7 +6,7 @@ slug: wp7common-introduction
 tags:introduction
 publish:True
 ---
-![Common-Overview-01](../Media/Common-Overview-01.png)
+
 
 Thank you for choosing Telerik __RadControls for Windows 8 / HTML__!
 			
@@ -22,33 +22,23 @@ Telerik built __RadControls for Windows 8 / HTML__ to target Windows Store appli
 
 This document includes help and API reference for:
 
-* 
-
-[
+* [
 								RadAutoCompleteBox
 							](ba370e55-0a96-4424-b016-d34b74a0ca2a)
 
-* 
-
-[
+* [
 								RadCalendar
 							](967aa005-3d68-447d-849c-f960db40e809)
 
-* 
-
-[
+*[
 								RadChart
 							](c529cbf2-3e2a-4137-b164-6d3c275daf29)
 
-* 
-
-[
+* [
 								RadComboBox
 							](3805f19b-2946-46c6-8653-3cb303e9314c)
 
-* 
-
-[
+* [
 								RadDatePicker and RadTimePicker
 							](d92f4a69-f187-47ea-aa7f-edf3fa8638df)
 
@@ -118,4 +108,4 @@ This document includes help and API reference for:
 								Telerik.Data.DataSource
 							](d27deb0c-aa3f-4549-8308-6c2e0f99d2df)
 
-# Related Topics
+Add some text.

@@ -1,4 +1,4 @@
----
+﻿---
 title: Configuring Remote Binding
 meta_title: Configuring Remote Binding
 meta_description: description.
@@ -57,8 +57,6 @@ To configure remote web service binding, use the __transport__ option during ini
 				        }
 				    });
 
-
-
 Once the __DataSource__ has been created with transport options, calling the __read()__ method will
 							cause the component to make a web request to the remote service. The __read()__ method is asynchronous
 							and returns a __WinJS.Promise__ object that can be used to wait for the returned result.
@@ -84,11 +82,10 @@ Once the __DataSource__ has been created with transport options, calling the __r
 
 
 # Properties
-
 Here is a description of the transport options.
 
 The __parameterMap__ property of the transport object can be specified for modifying the parameters
-							that are sent to the remote endpoint. It is often used to encode the parameters in JSON format. The property expects a
+							that are sent to the remote endpoint. It is often used to encode the parameters in JSON format. Add text here. The property expects a
 							function with a single options parameter. The parameter should contain key/value pairs that represent the request.
 							One or more of the following keys will be present (depending on the configuration and current request type):
 						

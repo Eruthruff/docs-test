@@ -1,8 +1,7 @@
 
-
 The sample code in the RadControls for Windows 8 HTML documentation is based on and taken from actual running projects, to make sure that all examples we provide are
-				runnable and implement the described/shown functionality. Since we already have these examples, and in certain environments or in scenarios including multiple files
-				(images, XML files, etc.) running a sample is not just a matter of copy and paste, we decided to make these projects available for download.
+runnable and implement the described/shown functionality. Since we already have these examples, and in certain environments or in scenarios including multiple files
+(images, XML files, etc.) running a sample is not just a matter of copy and paste, we decided to make these projects available for download.
 			
 
 You can find the solution containing projects for all UI controls in the products page in your account. Following is a description of how to locate and run a certain

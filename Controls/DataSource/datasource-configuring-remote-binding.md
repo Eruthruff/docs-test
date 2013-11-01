@@ -13,14 +13,12 @@ The main settings needed for binding the __DataSource__ control to remote data a
 			
 
 * 
-
 __transport__: Specifies the settings for loading and saving data. This can be a remote or local/in-memory data. It
 						includes specifying the URL of the source of data, the parameters to pass, the expected data type, etc. In other words, these are the settings to use
 						for retrieving the data.
 					
 
 * 
-
 __schema__: Responsible for describing the raw data format, or in other words, settings for processing the raw
 						data, once it is retrieved. These include: specifying the field from the response containing the data items of interest or the groups of data items,
 						specifying the field containing aggregates for the data, and providing a model for the returned data.
@@ -92,8 +90,7 @@ The __parameterMap__ property of the transport object can be specified for modif
 
 * 
 
-__aggregate__: An object containing the current aggregate info. Present if there are any aggregates,
-									and __serverAggregates__ is set to true.
+__aggregate__: An object containing the current aggregate info. 
 								
 
 * 
@@ -161,7 +158,7 @@ The function should return another
 
 To be able to read data from the remote service, you should configure the __read__ set of options of the transport object, namely:
 						
-
+Some content here.
 * 
 
 __cache__: a boolean property indicating whether the browser should cache the requested pages.

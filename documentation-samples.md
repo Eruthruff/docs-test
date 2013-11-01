@@ -1,4 +1,4 @@
-﻿
+
 
 The sample code in the RadControls for Windows 8 HTML documentation is based on and taken from actual running projects, to make sure that all examples we provide are
 				runnable and implement the described/shown functionality. Since we already have these examples, and in certain environments or in scenarios including multiple files

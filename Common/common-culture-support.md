@@ -16,6 +16,9 @@ From Q2 2013 on, __RadControls__ for Windows 8 HTML offer culture support capabi
 
 # Global Culture
 
+
+
+
 To operate with cultures using __RadControls__ you must use the __Telerik.Culture__ namespace. Use the 
           __setCurrent()__ method to set a global culture for all __RadControls__:
         

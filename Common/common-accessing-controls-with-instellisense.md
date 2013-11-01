@@ -31,6 +31,7 @@ These helper methods are especially useful in single page navigation (Navigation
 					ready: function (element, options) {
 					var chart = Telerik.UI.find.Chart("#chart1", element);
 					chart.redraw();
+					new line
 					}
 				
 

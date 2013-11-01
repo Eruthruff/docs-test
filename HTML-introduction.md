@@ -30,7 +30,7 @@ This document includes help and API reference for:
 								RadCalendar
 							](967aa005-3d68-447d-849c-f960db40e809)
 
-*[
+* [
 								RadChart
 							](c529cbf2-3e2a-4137-b164-6d3c275daf29)
 
@@ -109,3 +109,5 @@ This document includes help and API reference for:
 							](d27deb0c-aa3f-4549-8308-6c2e0f99d2df)
 
 Add some text.
+
+Blah

@@ -8,7 +8,7 @@
  -publish:True
  ----
 When you access a control using the __winControl__ property on a control wrapper element, Intellisense is unable to determine the type of the control and cannot display a list of its properties and methods. To be able to use IntelliSense with RadControls, from Q2 2013 on, there are two new helper method collections exposed by the __Telerik.UI__ namespace—__find__ that is a group of methods that find a control of a given type, instantiated on an element matching a supplied selector; and __to__ that is also a group of methods that return the passed object, cast to their corresponding type. The following sections clarify the usage of the two groups of methods.
-			
+<!-- this is a test of comments -->			
 
 # Section1Using Telerik.UI.find.[ControlName] methods
 

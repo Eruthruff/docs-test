@@ -58,7 +58,8 @@ Yes
 
 Yes
 
-You must specify width and height in advance when binding dynamically
+You must not specify width and height in advance when binding dynamically
+<!-- This was incorrect edit. -->
 
 __RadComboBox__
 
